@@ -14,8 +14,8 @@ In this assignment I built an application that displays basic information about 
 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://aaw14.github.io/wood_lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to build an application using an API
